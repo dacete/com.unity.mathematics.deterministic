@@ -1,9 +1,9 @@
 {
-  "name": "com.unity.mathematics",
+  "name": "com.unity.mathematics.deterministic",
   "displayName": "Mathematics",
   "version": "1.3.1",
   "unity": "2018.3",
-  "description": "Unity's C# SIMD math library providing vector types and math functions with a shader like syntax.",
+  "description": "Unity's C# SIMD math library providing vector types and math functions with a shader like syntax. Made deterministic using soft floats",
   "keywords": [
     "unity"
   ],
